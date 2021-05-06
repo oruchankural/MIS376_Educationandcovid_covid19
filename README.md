@@ -8,4 +8,4 @@ that the first case of Covid-19 was confirmed in Turkey in March 2020,
 the Ministry of Education (MoNE) and the Council of Higher Education
 (CoHE) have introduced some new regulations. By applying discourse
 analysis, the education discourses regarding these regulations required by
-the new Coronavirus will be discussed.
+the new Coronavirus will be discussed.I will use Datawrapper , Plotly.js and  Chartmaker Directory.
