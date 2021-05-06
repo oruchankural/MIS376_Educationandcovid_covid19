@@ -1,4 +1,11 @@
 # MIS376_Educationandcovid_covid19
 
 
-Yinelenen bir sayfa içeriğinin okuyucunun dikkatini dağıttığı bilinen bir gerçektir. Lorem Ipsum kullanmanın amacı, sürekli 'buraya metin gelecek, buraya metin gelecek' yazmaya kıyasla daha dengeli bir harf dağılımı sağlayarak okunurluğu artırmasıdır. Şu anda birçok masaüstü yayıncılık paketi ve web sayfa düzenleyicisi, varsayılan mıgır metinler olarak Lorem Ipsum kullanmaktadır. Ayrıca arama motorlarında 'lorem ipsum' anahtar sözcükleri ile arama yapıldığında henüz tasarım aşamasında olan çok sayıda site listelenir. Yıllar içinde, bazen kazara, bazen bilinçli olarak (örneğin mizah katılarak), çeşitli sürümleri geliştirilmiştir.
+Considering that education is one of the most heavily-hit
+fields, it is indisputably vital that proper education policies are determined and implemented as part of an effective social state policy. This
+study examines the effect of the new Coronavirus on Turkish educational policies. Immediately after the Turkish Ministry of Health announced
+that the first case of Covid-19 was confirmed in Turkey in March 2020,
+the Ministry of Education (MoNE) and the Council of Higher Education
+(CoHE) have introduced some new regulations. By applying discourse
+analysis, the education discourses regarding these regulations required by
+the new Coronavirus will be discussed.
