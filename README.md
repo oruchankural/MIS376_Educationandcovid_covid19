@@ -25,4 +25,4 @@ Finally, the English term is the concept of "emergency distance education", whic
 I used Datawrapper to visualize data
 
 ### SOURCES
-[link verme](http://www.google.com)
+(http://www.google.com)
