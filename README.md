@@ -1,8 +1,8 @@
 # MIS376_Educationandcovid_covid19
 
 
-## The Effect of Coronavirus (Covid19) Outbreak on Education Systems
-
+##*The Effect of Coronavirus (Covid19) Outbreak on Education Systems*
+##*italik yazı yazma* 
 Considering that education is one of the most heavily-hit
 fields, it is indisputably vital that proper education policies are determined and implemented as part of an effective social state policy. This
 study examines the effect of the new Coronavirus on Turkish educational policies. Immediately after the Turkish Ministry of Health announced
