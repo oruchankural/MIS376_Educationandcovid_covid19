@@ -25,4 +25,8 @@ Finally, the English term is the concept of "emergency distance education", whic
 I used Datawrapper to visualize data
 
 ### SOURCES
-(http://www.google.com)
+(http://www.ccsenet.org/journal/index.php/jel/article/view/0/43048)
+(https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/covid-19-educational-resources)
+(https://en.unesco.org/covid19/educationresponse)
+(https://www.uopeople.edu/blog/impact-of-coronavirus-on-education/)
+(https://www.unicef.org/laos/education-during-corona-virus-outbreak)
