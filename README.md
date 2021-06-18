@@ -3,6 +3,7 @@
 
 ## The Effect of Coronavirus (Covid19) Outbreak on Education Systems
 
+### ABSTRACT
 Considering that education is one of the most heavily-hit
 fields, it is indisputably vital that proper education policies are determined and implemented as part of an effective social state policy. This
 study examines the effect of the new Coronavirus on Turkish educational policies. Immediately after the Turkish Ministry of Health announced
@@ -11,3 +12,13 @@ the Ministry of Education (MoNE) and the Council of Higher Education
 (CoHE) have introduced some new regulations. By applying discourse
 analysis, the education discourses regarding these regulations required by
 the new Coronavirus will be discussed.I will use Datawrapper.
+
+### CONTENT OF PROJECT 
+The first distinction is that advanced education is an exceptional option However, exception education is an exception.
+
+The second important distinction is that local education is for use in line with the current need, whereas education for lifelong learning is ongoing and permanent shaping business.
+
+The Third Separation is an effort to make the third educational application for education in the education process of emergency distance education educable with a specific purpose, planned and online activities.
+
+Finally, the English term is the concept of "emergency distance education", which is the English equivalent of the concept of emergency education, and the concept of "education", which is the concept of education. Although the concept of distance is expressed in the same way in Turkish, “distance” is talked about, emphasized, and conveyed without mentioning the students.
+
