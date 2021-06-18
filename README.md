@@ -10,7 +10,7 @@ that the first case of Covid-19 was confirmed in Turkey in March 2020,
 the Ministry of Education (MoNE) and the Council of Higher Education
 (CoHE) have introduced some new regulations. By applying discourse
 analysis, the education discourses regarding these regulations required by
-the new Coronavirus will be discussed.I will use Datawrapper.
+the new Coronavirus will be discussed.
 
 ### CONTENT OF PROJECT 
 The first distinction is that advanced education is an exceptional option However, exception education is an exception.
@@ -21,3 +21,8 @@ The Third Separation is an effort to make the third educational application for 
 
 Finally, the English term is the concept of "emergency distance education", which is the English equivalent of the concept of emergency education, and the concept of "education", which is the concept of education. Although the concept of distance is expressed in the same way in Turkish, “distance” is talked about, emphasized, and conveyed without mentioning the students.
 
+### PROJECT TOOL
+I used Datawrapper to visualize data
+
+### SOURCES
+[link verme](http://www.google.com)
