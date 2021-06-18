@@ -1,7 +1,6 @@
 # MIS376_Educationandcovid_covid19
 
-
-## The Effect of Coronavirus (Covid19) Outbreak on Education Systems
+# The Effect of Coronavirus (Covid19) Outbreak on Education Systems
 
 ### ABSTRACT
 Considering that education is one of the most heavily-hit
