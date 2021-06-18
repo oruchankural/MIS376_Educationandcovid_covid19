@@ -22,7 +22,7 @@ The Third Separation is an effort to make the third educational application for 
 Finally, the English term is the concept of "emergency distance education", which is the English equivalent of the concept of emergency education, and the concept of "education", which is the concept of education. Although the concept of distance is expressed in the same way in Turkish, “distance” is talked about, emphasized, and conveyed without mentioning the students.
 
 ### PROJECT TOOL
-I used Datawrapper to visualize data
+I used Datawrapper to visualize data.
 
 ### SOURCES
 (http://www.ccsenet.org/journal/index.php/jel/article/view/0/43048) <br/>
